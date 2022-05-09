@@ -194,3 +194,14 @@
 Color: #fff;
 Font-size: 20px;
 } 
+
+.qq{
+  box-sizing: border-box;
+  Border: 2px solid blue;
+  Margin-top: 15px;
+  Color: red;
+  Background: black;
+  border-radius: 20px;
+  Padding-top: 5px;
+  Padding-left: 10px;
+}
